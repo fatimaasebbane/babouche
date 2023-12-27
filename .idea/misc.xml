@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/drawable/rounded_edittext.xml" value="0.2055" />
+        <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/activity_carousel.xml" value="0.1953125" />
+        <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/activity_combination.xml" value="0.1953125" />
         <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/activity_login.xml" value="0.19519927536231885" />
         <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
         <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/activity_register.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/L13/AndroidStudioProjects/base_de_donnees/app/src/main/res/layout/carousel_item.xml" value="0.19427083333333334" />
       </map>
     </option>
   </component>

@@ -44,10 +44,8 @@ public class LoginActivity extends AppCompatActivity {
                 boolean authenticateUser = databaseHelper.getUser(email, password);
                 if (authenticateUser) {
                     Toast.makeText(LoginActivity.this, "Authentification réussie", Toast.LENGTH_SHORT).show();
-                    // Rediriger vers l'activité principale ou une autre activité
-                    // Intent mainIntent = new Intent(LoginActivity.this, MainActivity.class);
-                    // startActivity(mainIntent);
-                    // finish();
+                    Intent intent=new Intent(LoginActivity.this,CarouselActivity.class);
+                    startActivity(intent);
                 } else {
                     Toast.makeText(LoginActivity.this, "Authentification échouée", Toast.LENGTH_SHORT).show();
                 }
